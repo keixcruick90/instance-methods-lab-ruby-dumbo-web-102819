@@ -1,11 +1,11 @@
 class Dog
 
-  def method_name
-
+  def bark
+    puts "Woof!"
   end
 
-  def method_name
-
+  def sit
+    puts "The Dog is sitting"
   end
 
 end
